@@ -55,13 +55,3 @@ class MyPrint:
         self.student_list.append(student)
 
 
-
-if __name__ == '__main__':
-    group_name: str = 'ИП-911'
-    semen = Semen(group_name, 10)
-    katya = Katya(group_name, 20)
-    diman = Diman(group_name, 20)
-    svyat = Svyat(group_name, 20)
-    student_list = [semen, katya, diman, svyat]
-    my_print = MyPrint(student_list)
-    print(my_print)
