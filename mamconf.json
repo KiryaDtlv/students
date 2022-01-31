@@ -1,0 +1,14 @@
+{
+  "project_name": "stundents",
+  "crypt_key": "689949d9c654a08fa416e693f865e7a5",
+  "dev_dependencies": [
+    "wheel"
+  ],
+  "builder": {
+    "dist_name": "stundents",
+    "tocopy": [],
+    "pythonversion": "3.7.9",
+    "build_folder": "./build",
+    "distribution_folder": "./dist"
+  }
+}
